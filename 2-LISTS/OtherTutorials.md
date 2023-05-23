@@ -15,6 +15,6 @@ This section includes other hud editing tutorials and references to use. This is
 
 ## Hud Resources
 
-* Main Hud repository: https://mastercomfig.com/huds/1/
+* Main Hud repository: https://mastercomfig.com/huds/
 * Alternate Hud repository: https://gamebanana.com/guis/games/297
 * Popular forum: http://www.teamfortress.tv/forum/8/customization

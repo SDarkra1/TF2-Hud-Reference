@@ -4,7 +4,7 @@ Animations are a very important part of many huds. The biggest example of an ani
 
 ## hudanimations_manifest.txt
 
-The manifest file defines what animations files should be used. In the default hud, this file is simply:
+The manifest file defines what animation files should be used. In the default hud, this file is simply:
 ```
 hudanimations_manifest
 {
@@ -15,9 +15,9 @@ hudanimations_manifest
 ```
 Where each "file" points to an animation file.
 
-It's worth mentioning this because some huds will add their own animations files. One of the main reasons being, if all edited animations are in their own file, then hudanimations_tf.txt can not exist in the hud files and be loaded from the vpk, which will automatically update it whenever tf2 updates.
+It's worth mentioning this because some huds will add their own animation files. One of the main reasons being, if all edited animations are in their own file, then hudanimations_tf.txt can not exist in the hud files and be loaded from the vpk, which will automatically update it whenever tf2 updates.
 
-If an animations appears in multiple files in the manifest, the one that appears first will be loaded. For example, since "LevelInit" appears in both hudanimations.txt and hudanimations_tf.txt, tf2 will use the one found in hudanimations.txt because it is loaded first.
+If an animation appears in multiple files in the manifest, the one that appears first will be loaded. For example, since "LevelInit" appears in both hudanimations.txt and hudanimations_tf.txt, tf2 will use the one found in hudanimations.txt because it is loaded first.
 
 ## hudanimations_tf.txt
 

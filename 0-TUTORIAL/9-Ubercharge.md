@@ -82,7 +82,7 @@ IndividualChargesLabel is very similar, but is the charge count for the vaccinat
 
 ## Charge Bar
 
-The charge bar is a element that fills itself gradually based off of your uber percent.
+The charge bar is an element that fills itself gradually based off of your uber percent.
 
 ```
 	"ChargeMeter"

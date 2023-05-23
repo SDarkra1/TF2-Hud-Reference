@@ -31,7 +31,7 @@ There is the BaseSettings section. This contains various settings for certain hu
 		ReplayBrowser.Search.FgColor						"White"
 ```
 
-The bitmap fonts section is very finnicky and can mostly be ignored. It contains definitions for bitmap fonts, which are used for 360 controller and steam controller buttons.
+The bitmap fonts section is very finicky and can mostly be ignored. It contains definitions for bitmap fonts, which are used for 360 controller and steam controller buttons.
 ```
 	BitmapFontFiles
 	{
@@ -68,7 +68,7 @@ Fonts are probably the most important part of the clientscheme. The unique ident
 		...
 ```
 
-Borders are another section that needs to be defined in the clientscheme. There are several formats that can be used. This will be covered more in depth later.
+Borders are another section that needs to be defined in the clientscheme. There are several formats that can be used. This will be covered more in-depth later.
 ```
 	Borders
 	{
@@ -81,7 +81,7 @@ Borders are another section that needs to be defined in the clientscheme. There 
 		...
 ```
 
-The CustomFontFiles section is needed to define what fonts the Fonts section can use. The "file" value should be the filepath of the ttf or otf file. The "name" value needs to be what the font is called (the easiest way to check is to rightclick the font and preview it, and check what "font name" says).
+The CustomFontFiles section is needed to define what fonts the Fonts section can use. The "file" value should be the filepath of the ttf or otf file. The "name" value needs to be what the font is called (the easiest way to check is to right click the font and preview it, and check what "font name" says).
 ```
 	CustomFontFiles
 	{

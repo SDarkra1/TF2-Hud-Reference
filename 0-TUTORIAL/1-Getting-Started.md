@@ -1,6 +1,6 @@
 # Getting Started
 
-## custom folder
+## Custom folder
 
 To begin with, every hud must have a folder in custom. This takes the form of:
 ```
